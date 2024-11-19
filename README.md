@@ -41,9 +41,9 @@ The project is organized as follows:
 
 ## Feedback and Contact
 
-I welcome feedback and suggestions for improving the RedStore E-Commerce Website. Feel free to reach out to me at mr.atharvbadekar9422@gmail.com for any inquiries or collaboration opportunities.
+I welcome feedback and suggestions for improving the RedStore E-Commerce Website. Feel free to reach out to me at ashishsharma966563@gmail.com for any inquiries or collaboration opportunities.
 
 Thank you for visiting and exploring the RedStore E-Commerce Website!
 
 ---
-Created by Atharv Badekar
+Created by Ashish Sharma
